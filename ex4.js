@@ -3,7 +3,7 @@
  * 2. Asigna un valor adecuado a la variable "número" para que, por consola, se muestra tan solo "BUP!BUP!"
  */
 
-let numero = -1;
+let numero = 0;
 
 if (numero == 0) {
     console.log("BUP!BUP!");

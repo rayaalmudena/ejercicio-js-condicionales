@@ -3,7 +3,7 @@
 */
 
 if (1 < 2) {
-    console.log("Miau!")
+    console.log("Miau!") //This
 }
 
 else {
